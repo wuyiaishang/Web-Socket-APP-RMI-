@@ -6,7 +6,7 @@ Java Socket
 
 # Business Logic
 - Client remotely invokes methods on Server
-- Create and registers Remote Class on Register at Server
+- Create and register Remote Class on Register at Server
 - Receieve Remote Class from Server, and then assigns port number(Register)
 - Request Remote Class(Client Stub) from Register(Client)
 - Listen port number(Server) and then call methods on Server By Client Stub(Client)
